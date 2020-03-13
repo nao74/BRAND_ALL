@@ -8,4 +8,4 @@
 - Spaceキーでジャンプ
 
 # プレイの仕方
-- BRAND_FinalのBRAND
+- BRAND_FinalのBRAND/
