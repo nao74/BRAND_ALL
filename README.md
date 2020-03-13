@@ -8,4 +8,4 @@
 - Spaceキーでジャンプ
 
 # プレイの仕方
-- BRAND_FinalのBRAND/
+- downloadした後ファイル内のBRAND/BRAND/BRAND.exeを起動
