@@ -8,7 +8,7 @@
 - Spaceキーでジャンプ
 
 # プレイの仕方
-- downloadした後ファイル内のBRAND/BRAND.exeを起動
+- downloadした後ファイル内のBRAND/Game.exeを起動
 
 # 補足
 - 青色の球体があったら球体前でSキーを押してみる。
