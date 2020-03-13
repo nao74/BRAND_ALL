@@ -6,3 +6,6 @@
 - テンキーで左右移動
 - Shifキーでダッシュ
 - Spaceキーでジャンプ
+
+# プレイの仕方
+- BRAND_FinalのBRAND
