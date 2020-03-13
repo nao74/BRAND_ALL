@@ -3,7 +3,7 @@
 - テーマは文字を使わないでストーリーを伝えることです。
 
 # サンプル画像
-! [サンプル_1](サンプル_1.JPG)<br>
+![サンプル_1](https://user-images.githubusercontent.com/38421007/76622471-e4f38e00-6574-11ea-9975-f32317fb1d09.png)
 
 # プレイの仕方
 - downloadした後ファイル内のBRAND/Game.exeを起動
