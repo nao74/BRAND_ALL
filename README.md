@@ -3,7 +3,7 @@
 - テーマは文字を使わないでストーリーを伝えることです。
 
 # サンプル画像
-<img width="68" alt="サンプル_1" src="https://user-images.githubusercontent.com/38421007/76622673-4d426f80-6575-11ea-9130-26e9a0d2462e.png">
+
 
 
 # プレイの仕方
