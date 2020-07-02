@@ -27,6 +27,9 @@ https://youtu.be/0dyN-gxIfRQ
 - クリア画面ではマウスで操作してください。
 - Escapeキーでゲームを終了出来ます。
 
+# 使用言語
+- C#
+
 # 開発環境
 - Visual Studio
 - Unity
