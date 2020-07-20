@@ -14,7 +14,7 @@
 - ↓のリンクから見てください。  
 https://youtu.be/0dyN-gxIfRQ
 
-# プレイの仕方
+# 起動方法
 - downloadした後ファイル内のBRAND/Game.exeを起動
 
 # 操作方法
