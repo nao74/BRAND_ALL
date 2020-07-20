@@ -32,5 +32,5 @@ https://youtu.be/0dyN-gxIfRQ
 - C#
 
 # 開発環境
-- Visual Studio
+- Visual Studio2019
 - Unity
